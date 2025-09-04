@@ -13,23 +13,16 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
-
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Dev Projects`
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games
+- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**  
+- 🔭 I’m currently working on `cutting-edge software solutions`.  
+- 🌱 I’m currently learning `advanced system architecture and AI-driven development`.  
+- 👯 I’m looking to collaborate on `innovative tech projects`.  
+- 🤔 I’m looking for help with `optimizing large-scale system designs`.  
+- 💬 Ask me about `software engineering, DevOps, or AI`, I’m happy to share!  
+- 👨‍💻 Life Hack: Master new technologies and contribute to the tech community!  
+- ⚡ Fun fact: I sharpen my strategic thinking with competitive chess!
 
 ## 🛠️ Technologies and Tools I use:
 
