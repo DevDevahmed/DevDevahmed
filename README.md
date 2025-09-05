@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**  
+- 🙋‍♂️ All about me is at **[My Website](https://portfolio-ahmedj.vercel.app/)**  
 - 🔭 I’m currently working on `cutting-edge software solutions`.  
 - 🌱 I’m currently learning `advanced system architecture and AI-driven development`.  
 - 👯 I’m looking to collaborate on `innovative tech projects`.  
